@@ -1,20 +1,4 @@
-# React-Landing-Page-Template
-Quickly bring up a landing page for your app on desktop and mobile.
-
-## Live Demo
-https://voiceqna.com/mirror
-
-https://voiceqna.com
-
-https://amplichat.com
-
-## Desktop Demo
-
-![desktop_gif](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/2c80683a-b574-4d8f-8200-ae3984bb9794)
-
-## Mobile Demo
-
-![mobile_gif](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/fc8b7f2f-734c-4192-bd87-a497322280d2)
+# Market-Rent-Report-FrontEnd-React
 
 ## Getting Started
 ```
